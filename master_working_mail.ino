@@ -111,7 +111,7 @@ void loop()
     }*/
 }
 
-
+// initialize foreword function
 void foreward(){
   a[0]='f';
   Serial.println('f');
